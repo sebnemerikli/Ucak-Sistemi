@@ -1,0 +1,2 @@
+Input dosyasında verilmiş uçak bilgilerinin öncelikli kuyruk (+bağlı liste) yapısı ile iniş saatlerine göre dizilmesini esas alan bir program.
+Seçim menüsünde kullanıcı tarafından 2. seçimin seçilmesi durumunda kuyruğa dizilmiş uçaklar, "output.txt" dosyasına yazdırılır.
